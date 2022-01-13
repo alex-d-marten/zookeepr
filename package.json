@@ -20,6 +20,7 @@
   "homepage": "https://github.com/alex-d-marten/zookeepr#readme",
   "dependencies": {
     "express": "^4.17.2",
-    "jest": "^27.4.7"
+    "jest": "^27.4.7",
+    "nodemon": "^2.0.15"
   }
 }
